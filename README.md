@@ -1,6 +1,5 @@
-# USDA-9
+# USDA Food Composition Visual Browser
 USDA - 9
-
 
 Sample Output: 
 
@@ -30,6 +29,6 @@ Sample Output:
 
 ## Links
 
-* Link: https://nyu-cs6313-fall16.github.io/USDA-9/index.html
+* Live Demo: https://nyu-cs6313-fall16.github.io/USDA-9/index.html
 * Video Link:
 * Project Report:
