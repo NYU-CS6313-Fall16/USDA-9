@@ -28,6 +28,6 @@ Sample Visual Browser:
 
 ## Links
 
-* Live Demo: https://nyu-cs6313-fall16.github.io/USDA-9/index.html
-* Video Link:
-* Project Report: https://docs.google.com/a/nyu.edu/document/d/1TMgx9vkE43MVaQPYrhZlWWjWv-eORle2dc09L0OyyZU/edit?usp=sharing
+* [Live Demo](https://nyu-cs6313-fall16.github.io/USDA-9/index.html)
+* [Video Link] (https://www.google.com)
+* [Project Report](https://docs.google.com/a/nyu.edu/document/d/1TMgx9vkE43MVaQPYrhZlWWjWv-eORle2dc09L0OyyZU/edit?usp=sharing)
