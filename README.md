@@ -7,6 +7,16 @@ Sample Output:
 ![Alt text](https://github.com/NYU-CS6313-Fall16/USDA-9/blob/master/Screenshot.png "Nutrient Visualization") 
 
 ## Description
+* The goal of this project is to make food data more accessible to the world and to help users answer the question **“What’s in my food?”** and to assist them in making healthy choices about what to eat. 
+* The application will give the user a high-level understanding of the nutrient composition of the food as a whole, with the option to drill down to more detailed information if needed. 
+* The visualization answers the following questions: 
+ * What is the nutrient composition of a food X?
+ * What foods contain a specific composition of nutrients? 
+ * What are the alternative food options to a specific selection of food(x)? 
+ * What are the top foods containing a combination of nutrients?
+ * In a specific food group, Is nutrient X correlated to nutrient Y?
+
+
 
 ## Data Source
 [USDA food composition](https://ndb.nal.usda.gov/ndb/search/list)
