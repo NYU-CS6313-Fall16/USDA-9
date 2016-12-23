@@ -33,10 +33,3 @@ Sample Output:
 * Link: https://nyu-cs6313-fall16.github.io/USDA-9/index.html
 * Video Link:
 * Project Report:
-
-## Authors
-
-* Ankit Nagpal
-* Preeti Patel
-* Varun Elango
-* Vignesh Ramesh
