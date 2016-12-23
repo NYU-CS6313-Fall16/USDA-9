@@ -1,7 +1,6 @@
 # USDA Food Composition Visual Browser
-USDA - 9
 
-Sample Output: 
+Sample Visual Browser: 
 
 ![Alt text](https://github.com/NYU-CS6313-Fall16/USDA-9/blob/master/Screenshot.png "Nutrient Visualization") 
 
@@ -31,4 +30,4 @@ Sample Output:
 
 * Live Demo: https://nyu-cs6313-fall16.github.io/USDA-9/index.html
 * Video Link:
-* Project Report:
+* Project Report: https://docs.google.com/a/nyu.edu/document/d/1TMgx9vkE43MVaQPYrhZlWWjWv-eORle2dc09L0OyyZU/edit?usp=sharing
